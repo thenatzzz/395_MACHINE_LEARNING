@@ -171,3 +171,6 @@ test_fer_model(path,pkl_net)
 model = "/homes/wt814/machinelearning/optional/neuralnets/model.json"
 weights = "/homes/wt814/machinelearning/optional/neuralnets/model.h5"
 test_deep_fer_model(path,model, weights)
+
+
+#### SHOULD ADD MAIN
