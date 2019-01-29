@@ -1,4 +1,4 @@
-one_fold_data = []
+one_fold_data = [] # for cross-validation
 nine_folds_data = []
             
 def split10Fold(data, one_fold_data, nine_folds_data, time):
