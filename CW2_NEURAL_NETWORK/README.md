@@ -1,4 +1,4 @@
-Intructions:
+Instructions:
 
 The test function is located in src/test.py
 
